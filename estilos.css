@@ -1,0 +1,24 @@
+.titulo{    
+    font-size: 22px;
+    color: blueviolet;   
+    position: center;     
+}
+.titulo_2{
+    font-size: 20px;
+    color: brown;
+}
+.center{
+    margin-left: 50%
+}
+.tab{
+    margin-left: 5%;
+}
+ul{
+    list-style: none;
+}
+li{
+    list-style: none;
+}
+.letraGrande{
+    font-size: 18px;
+}
